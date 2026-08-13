@@ -3,7 +3,7 @@ Pre-Operative to Intra-Operative: A Brain Tumor Segmentation Generalization Stud
 
 ## Pretrained Model Checkpoints
 
-Checkpoints are hosted on Hugging Face (private access):
+Checkpoints are hosted on Hugging Face:
 - [IMFuse](https://huggingface.co/danishali6421/IMFuse)
 - [D3Seg](https://huggingface.co/danishali6421/D3Seg)
 - [mmformer](https://huggingface.co/danishali6421/mmformer)
